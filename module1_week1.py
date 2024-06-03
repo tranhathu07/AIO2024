@@ -67,7 +67,7 @@ else:
       print(result)
     else: # choice == 'elu'
       result = elu(alpha, x)
-      elprint(result)
+      print(result)
   else:
     print(f'{choice} is not supported')
 """#Exercise 3: MAE,MSE,RMSE để tính loss"""
