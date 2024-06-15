@@ -1,4 +1,13 @@
-{
-    "sonarCloudOrganization": "tranhathu07",
-    "projectKey": "tranhathu07_Exercise_weeks"
-}
+sonar.projectKey=tranhathu07_AIO2024
+sonar.organization=tranhathu07
+
+# This is the name and version displayed in the SonarCloud UI.
+#sonar.projectName=AIO2024
+#sonar.projectVersion=1.0
+
+
+# Path is relative to the sonar-project.properties file. Replace "\" by "/" on Windows.
+#sonar.sources=.
+
+# Encoding of the source code. Default is default system encoding
+#sonar.sourceEncoding=UTF-8
